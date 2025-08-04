@@ -1,0 +1,2 @@
+# Climate-Projections-of-temperature-in-Brazil-2100-under-RCP4.5-RCP8.5-using-Eta-HadGEM2-ES
+This repository provides seasonal temperature maps for Brazil, based on the dynamically downscaled Eta‑HadGEM2‑ES model. It includes historical and future estimates (2011–2040, 2041–2070, 2071–2100) of minimum (Tmin), maximum (Tmax), and mean (Tmean) temperatures under two greenhouse gas concentration scenarios: RCP 4.5 and RCP 8.5.
